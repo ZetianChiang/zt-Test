@@ -18,6 +18,7 @@
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor cyanColor];
     NSLog(@"view did load");
+    NSLog(@"mergeTest");
 }
 
 - (void)viewWillAppear:(BOOL)animated {
